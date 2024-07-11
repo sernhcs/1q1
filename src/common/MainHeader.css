@@ -1,0 +1,28 @@
+h1.lia {
+    font-size: 60px !important;
+    font-weight: 200;
+    letter-spacing: -4px;
+    color: black;
+}
+p.lia2 {
+    font-size: 24px !important;
+    font-weight: 200;
+    letter-spacing: -1px;
+    color: black;
+}
+
+
+.mainHeader-bg {
+    background-color: rgba(248,249,250,1);
+    padding: 20px;
+    color: white;
+}
+
+.mainHeader-bg .container {
+    text-align: center;
+}
+
+.mainHeader-bg .lia {
+    font-size: 3em;
+    margin: 0;
+}

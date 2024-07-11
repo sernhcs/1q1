@@ -1,0 +1,12 @@
+.icono-vista-rapida2{
+    color: #8d75a1!important;
+    position: absolute;
+   
+    border-radius: 50%;
+    transition: all ease-in-out .5s;
+    cursor: pointer;
+}
+.icono-vista-rapida-mostrar{
+    opacity: 1;
+    right: 10px;
+}

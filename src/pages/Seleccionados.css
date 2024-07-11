@@ -1,0 +1,6 @@
+.img-thumbnail-custom {
+    width:50px; /* Ajusta este valor según el tamaño deseado */
+    height: 50px; /* Ajusta este valor según el tamaño deseado */
+    object-fit: cover; /* Asegura que la imagen mantenga su aspecto */
+    border-radius: 50%; /* Hace la imagen circular */
+}
